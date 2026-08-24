@@ -1,9 +1,17 @@
 <div align="center">
   <a href="https://github.com/northern-edge-technologies/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png">
-    <img src="https://raw.githubusercontent.com/northern-edge-technologies/.github/main/assets/logo.png" alt="logo">
-  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/solid-logo-full-white.png"
+  />
+  <img
+    src="./assets/solid-logo-full-white.png"
+    alt="Northern Edge Technologies"
+    width="200"
+  />
+
+</picture>
   </a>
 </div>
 
